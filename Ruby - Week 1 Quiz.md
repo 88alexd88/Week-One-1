@@ -84,4 +84,19 @@ x = 1
 
 # Answer - Error
 
+
+_____________New Questions___________________
+
+
+9. What are the proper steps to push files onto github?
+
+10. What is the differnce between an float and an intiger?
+
+11. What does -
+    def initialize name
+    end 
+    do in the ruby code.
+
+
+
   
